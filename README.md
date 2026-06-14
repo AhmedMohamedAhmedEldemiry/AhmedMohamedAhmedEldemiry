@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ahmed 👋
 
-<!--
-**AhmedMohamedAhmedEldemiry/AhmedMohamedAhmedEldemiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Student
 
-Here are some ideas to get you started:
+💻 Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in AI & Machine Learning
+
+🏋️ Currently Building SmartGym Graduation Project
+
+## Tech Stack
+
+* Angular
+* Node.js
+* Express.js
+* Python
+* MySQL
+* Machine Learning
+
+## Contact
+
+* LinkedIn: linkedin.com/in/ahmed-mohamed-eldemiry
