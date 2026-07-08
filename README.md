@@ -18,4 +18,4 @@ I specialize in designing optimized relational databases, developing robust back
 
 ### 📫 Get in Touch
 * **LinkedIn:** [linkedin.com/in/ahmed-mohamed-eldemiry](https://www.linkedin.com/in/ahmed-mohamed-eldemiry)
-* **Email:** [ahmedmohamedahmedeldemiry@gmail.com]
+* **Email:** ahmedmohamedahmedeldemiry@gmail.com
