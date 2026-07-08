@@ -1,22 +1,21 @@
-# Hi, I'm Ahmed 👋
+# Hi, I'm Ahmed Eldemiry 👋
 
-🎓 Final Year Computer Science Student
+**Junior Database Developer | Backend & API Integration Specialist**
 
-💻 Full Stack Developer
+I specialize in designing optimized relational databases, developing robust backend services, and integrating AI solutions to build scalable applications. 
 
-🤖 Interested in AI & Machine Learning
+### 🚀 Tech Stack
+* **Languages:** Python
+* **Databases:** SQL Server (MS SQL), Relational Database Design
+* **Backend Frameworks:** FastAPI
+* **Frontend Basics:** JavaScript, React.js
+* **Tools & AI:** Git, Prompt Engineering, Gemini APIs, Linux (Pop!_OS)
 
-🏋️ Currently Building SmartGym Graduation Project
+### 🛠 Featured Projects
+* **Smart Gym AI Agent:** An AI-powered fitness management system using FastAPI, SQL Server, and Gemini APIs.
+* **Spam Detection System:** High-accuracy NLP pipeline using Scikit-learn and FastAPI.
+* **Hotel Management System:** Fully normalized database architecture design for hotel operations.
 
-## Tech Stack
-
-* Angular
-* Node.js
-* Express.js
-* Python
-* MySQL
-* Machine Learning
-
-## Contact
-
-* LinkedIn: linkedin.com/in/ahmed-mohamed-eldemiry
+### 📫 Get in Touch
+* **LinkedIn:** [linkedin.com/in/ahmed-mohamed-eldemiry](https://www.linkedin.com/in/ahmed-mohamed-eldemiry)
+* **Email:** [ahmedmohamedahmedeldemiry@gmail.com]
